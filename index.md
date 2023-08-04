@@ -5,4 +5,4 @@
 layout: home
 ---
 
-# HELLO WORLD
+# did i do this right?
