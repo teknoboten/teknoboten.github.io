@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: http://teknoboten.github.io/sitemap.xml
